@@ -1,31 +1,37 @@
-👋Hello! 
+## 👋 Hello, I'm Hyemin Jang!
 
-I'm a web developer Hyemin looking to contribute to projects using Git.
+I'm a passionate web developer based in Vancouver, looking to contribute to impactful projects and expand my experience in software development.
 
-👀Skills 
-
+### 👀 Skills
 I have expertise in the following technologies:
 
-Backend development with Java and the Spring framework
-Frontend development using HTML, CSS, and JavaScript
-Experience with JavaScript frameworks such as Angular and React
+- **Backend Development**: Java with Spring framework, PHP
+- **Frontend Development**: HTML, CSS, JavaScript
+- **Frameworks**: Angular, React, jQuery
+- **Database**: Oracle, PostgreSQL
+- **DevOps Tools**: GitHub, Jenkins, SAP integration
+- **Soft Skills**: Analytical thinking, communication, teamwork, attention to detail, requirement analysis, and time management
 
-🌱Experience 
+### 🌱 Experience
+- **DevOps Engineer at GSITM, Seoul** (Nov 2022 - Nov 2023)  
+  Engineered monitoring systems, integrated SAP, and streamlined data processes, leading to enhanced operational efficiency.
+- **Technical Consultant at Bimatrix, Seoul** (July 2021 - Nov 2022)  
+  Led POC cycles, improved system performance, and developed screens for database integration.
 
-Here are some of my experiences:
+### 😄 Current Projects
+- **Portfolio Website**: Showcasing my work with interactive project cards and a skills section.
+- **Decision Maker App**: A fun tool to help make random decisions easily.
+- **Personal Blog**: Writing about my journey and sharing tech insights.
+- **Tag Cloud Generator**: Visualizing the most common tags from text.
 
-Developing prototypes and providing sales support for POC projects
-Interface development and module creation with SAP systems
-Development and operation of web systems for vessel operations
+### 🌱 Education
+- **Web Development Diploma** from Tamwood College, Vancouver
+- **Full-Stack Developer Program** from Ssangyong Education Center (June 2021)
+- **B.A. in History** from Sejong University
 
-😄Current Projects 
+### 💞️ Contact
+I'm currently seeking new opportunities and would love to connect!  
+Feel free to reach out to me via email at [jhmin07@gmail.com](mailto:jhmin07@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/hyemin-jang).
 
-I am currently involved in the following projects: Static-website
+Thanks for visiting my GitHub profile! 😊
 
-Pursuing web development courses at Tamwood International College
-
-💞️Contact 
-
-Feel free to reach out to me via email at jhmin07@gmail.com
-
-Thank you!
