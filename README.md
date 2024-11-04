@@ -31,7 +31,7 @@ I have expertise in the following technologies:
 
 ### 💞️ Contact
 I'm currently seeking new opportunities and would love to connect!  
-Feel free to reach out to me via email at [jhmin07@gmail.com](mailto:jhmin07@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/hyemin-jang).
+Feel free to reach out to me via email at [jhmin07@gmail.com](mailto:jhmin07@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/hyemin-jang-2070aa204').
 
 Thanks for visiting my GitHub profile! 😊
 
